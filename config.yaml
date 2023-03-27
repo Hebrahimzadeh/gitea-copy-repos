@@ -1,0 +1,6 @@
+ORIGIN_URL: https://domain.ltd/
+DIST_URL: https://new.domain.ltd/
+ORIGIN_TOKEN: {origin_token}
+DIST_TOKEN: {distination_token}
+ORIGIN_ORG_NAME: {origin_org_name}
+DIST_ORG_NAME: {org_name}
